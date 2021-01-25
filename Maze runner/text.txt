@@ -1,0 +1,5 @@
+Project created by Roman Furman(255909) and Ihor Kostiuk(255915)
+Used libraries:
+https://juliaimages.org/latest/ - JuliaImages
+https://juliagraphics.github.io/Gtk.jl/latest/ - Gtk.jl
+https://github.com/JuliaImages/ImageView.jl - ImageView, TestImages
